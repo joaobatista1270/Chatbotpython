@@ -5,3 +5,6 @@ para acessar o modo matematica basta digitar modo matematica certinho somente le
 # BARRA CONVERSA 
 o barra conversa vai mostras todas as palavras que funcionam.
 basta dizer: "barra conversa" que vai mostrar as palavras.
+#JOÃO BATISTA (criador)
+João Batista o primeiro programa desse
+
