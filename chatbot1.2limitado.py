@@ -87,7 +87,7 @@ while True:
          e = float(input("primeiro numero: "))
          print(" ")
          h = float(input("segundo numero: "))
-         
+
          if sn == "mais":
              mais = e + h
              time.sleep(0.5)
@@ -98,7 +98,7 @@ while True:
              print("voltando...")
              time.sleep(0.2)
              print("")
-             
+
          elif sn == "menos":
              hd = e - h
              time.sleep(0.5)
@@ -109,7 +109,7 @@ while True:
              print("voltando...")
              time.sleep(0.5)
              print("")
-             
+
          elif sn == "vezes":
              dns = e * h
              time.sleep(0.5)
@@ -120,7 +120,7 @@ while True:
              print("voltando...")
              time.sleep(0.2)
              print(" ")
-             
+
          elif sn == "divisao":
              wwd = e / h
              time.sleep(0.2)
@@ -131,7 +131,7 @@ while True:
              print("voltando...")
              time.sleep(1)
              print(" ")
-             
+
          else:
              print("invalido...")
              time.sleep(0.2)
@@ -139,7 +139,7 @@ while True:
              print("voltando...")
              time.sleep(1)
              print(" ")
-             
+
     elif i == "como voce funciona?":
          print(" ")
          print("eu funciono com varios codigos com print, elif e mais coisas para dar certo e nao dar erro do terminal, e fui criado no aplicativo pydroid 3 ")
