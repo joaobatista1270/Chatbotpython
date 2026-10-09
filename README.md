@@ -8,7 +8,7 @@ basta dizer: "barra conversa" que vai mostrar as palavras.
 # JOÃO BATISTA (criador)
 voce sabia que João Batista criou o primeiro programa python desse repositório com apenas 13 anos em 2026? 
 eu irei fazer 14 anos em 31 de dezembro e gostaria ser um jovem aprendiz em programação python
-# COMO CONSEGUI FAZER OS CODIGOS?
-eu consegui conhecimentos com o YouTube e Gemini e olha que nem fui para o senai!
+# COMO TIVE CONHECIMENTOS PARA FAZER OS CODIGOS?
+eu consegui conhecimentos com o YouTube e Gemini e olha que nem fui para o senai ainda!
 
 
