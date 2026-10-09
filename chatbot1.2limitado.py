@@ -1,4 +1,5 @@
 print("ao escrever > barra conversa < vai mostras as palavras que funciona")
+import math
 import time
 import sys
 while True:
@@ -80,14 +81,14 @@ while True:
          print(" ")
     elif i == "modo matematica":
          print(" ")
-         print("escolha e digite: \n mais , menos , vezes , divisao")
+         print("escolha e digite: \n mais , menos , vezes , divisao , raiz quadrada")
          sn = input("digite um deles: ")
          print("                                       ")
          print("digite somente numeros ")
          e = float(input("primeiro numero: "))
          print(" ")
          h = float(input("segundo numero: "))
-
+         
          if sn == "mais":
              mais = e + h
              time.sleep(0.5)
@@ -96,9 +97,9 @@ while True:
              time.sleep(0.2)
              print(" ")
              print("voltando...")
-             time.sleep(0.2)
+             time.sleep(1)
              print("")
-
+             
          elif sn == "menos":
              hd = e - h
              time.sleep(0.5)
@@ -107,9 +108,9 @@ while True:
              time.sleep(0.2)
              print(" ")
              print("voltando...")
-             time.sleep(0.5)
+             time.sleep(1)
              print("")
-
+             
          elif sn == "vezes":
              dns = e * h
              time.sleep(0.5)
@@ -118,35 +119,49 @@ while True:
              time.sleep(0.2)
              print(" ")
              print("voltando...")
-             time.sleep(0.2)
+             time.sleep(1)
              print(" ")
-
+             
          elif sn == "divisao":
              wwd = e / h
-             time.sleep(0.2)
+             time.sleep(0.5)
              print(" ")
-             print("resultado da divisao: ", wwd)
+             print("resultado: ", wwd)
              time.sleep(0.2)
              print(" ")
              print("voltando...")
              time.sleep(1)
              print(" ")
-
+             
+         elif sn == "raiz quadrada" :
+             raiz_quad = math.sqrt(e), (h)
+             time.sleep(0.5)
+             print(" ")
+             print("resultado: ", raiz_quad)
+             time.sleep(0.5)
+             print(" ")
+             print("voltando...")
+             print(" ")
+             time.sleep(1)
+             
+             
+             
          else:
+             print(" ")
              print("invalido...")
-             time.sleep(0.2)
+             time.sleep(0.5)
              print(" ")
              print("voltando...")
              time.sleep(1)
              print(" ")
-
+             
     elif i == "como voce funciona?":
          print(" ")
          print("eu funciono com varios codigos com print, elif e mais coisas para dar certo e nao dar erro do terminal, e fui criado no aplicativo pydroid 3 ")
          print(" ")
     elif  i == "nome do arquivo":
          print(" ")
-         print("nome do arquivo .py e: conversacomchat.py")
+         print("nome do arquivo .py e: chatbot.py")
          print(" ")
     elif i == "voce e homem?":
          print(" ")
