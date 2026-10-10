@@ -2,11 +2,11 @@
 chat bot limitado ele é limitado e contém 23 palavras juntando com o modo matematica.
 # MODO MATEMATICA
 para acessar o modo matematica basta digitar modo matematica certinho somente letras para funcionar sem cair no else
-# BARRA CONVERSA 
-o barra conversa vai mostras todas as palavras que funcionam.
-basta dizer: "barra conversa" que vai mostrar as palavras.
+# COMANDO "HELP" 
+o help vai mostras todas as palavras que funcionam.
+basta dizer: "help" que vai mostrar as palavras.
 # ATUALIZAÇÃO
-raiz quadrada no codigo
+agora é um resultado só na raiz quadrada 
 # JOÃO BATISTA (criador)
 voce sabia que João Batista criou o chat bot limitado? com apenas 13 anos em 2026? 
 eu irei fazer 14 anos em 31 de dezembro e gostaria ser um jovem aprendiz em programação python
