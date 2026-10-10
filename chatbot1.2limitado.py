@@ -1,4 +1,4 @@
-print("ao escrever > barra conversa < vai mostras as palavras que funciona")
+print("ao escrever > help < vai mostras as palavras que funciona")
 import math
 import time
 import sys
@@ -36,7 +36,7 @@ while True:
          print(" ")
          print("eu nao fui feito para fazer matematicas eu fui feito para interagir")
          print(" ")
-    elif  i == "barra conversa":
+    elif  i == "help":
              print(" ")
              print(" > lista <")
              print("oi")
@@ -134,7 +134,7 @@ while True:
              print(" ")
              
          elif sn == "raiz quadrada" :
-             raiz_quad = math.sqrt(e), (h)
+             raiz_quad = math.sqrt(e + h)
              time.sleep(0.5)
              print(" ")
              print("resultado: ", raiz_quad)
@@ -199,4 +199,4 @@ while True:
         print(f"olá sou joao batista e muito obrigado por testar o que eu criei \n eu gostaria de ser um jovem aprendiz em codigo pythom \n mais ainda não sou e ainda tenho 13 anos e so pode ser \n jovem aprendiz pelo menos aos 14 anos. \n mais enfim obrigado por testar!")                                                                                       
     else:
         print(" ")
-        print("desculpe mas sou muito limitado e tem palavras que funcionam \npor favor escreva: > barra conversa < para ver as palavras que funcionam")
+        print("desculpe mas sou muito limitado e tem palavras que funcionam \npor favor escreva: > help < para ver as palavras que funcionam")
